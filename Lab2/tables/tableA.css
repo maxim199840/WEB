@@ -1,0 +1,23 @@
+.main-table {
+    width: 87%;
+    height: 99.5vh;
+}
+
+.navbar {
+    height: 100%;
+    width: 20%;
+}
+
+.content {
+    width: 70%;
+}
+
+.header {
+    height: 15%;
+    width: 100%;
+}
+
+.footer {
+    height: 15%;
+    width: 100%;
+}

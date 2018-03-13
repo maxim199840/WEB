@@ -1,0 +1,71 @@
+body{
+    display: flex;
+}
+
+.navbar {
+    height: 100%;
+    width: 20%;
+    background-color: cornflowerblue;
+}
+
+.header{
+    height: 15%;
+    width: 100%;
+    background-color: greenyellow;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.container {
+    display: flex;
+    width: 100%;
+    height: 70%;
+}
+
+.contenter{
+    height: 100%;
+    width: 80%;
+}
+
+.footer{
+    height: 15%;
+    background-color: greenyellow;
+}
+
+.some-class-name {
+    height: 99vh;
+    width: 100%;
+}
+
+.content-head {
+    background-color: #ff6464;
+    width: calc(100% - 20px);
+    margin: 10px;
+    height: 20%;
+}
+
+.content-inside {
+    height: 80%;
+    width: 100%;
+}
+
+.content-left {
+    float: left;
+    width: calc(60% - 15px);
+    height: calc(80% - 30px);
+    margin: 0 5px 10px 10px;
+}
+.content-right {
+    float: left;
+    width: calc(40% - 15px);
+    height: calc(80% - 30px);
+    margin: 0 10px 10px 5px;
+    background-color: cornflowerblue;
+}
+
+.search-bar {
+    line-height: 50%;
+    height: 50%;
+    width: 20%;
+    margin: auto 5%;
+}

@@ -1,0 +1,27 @@
+body{
+    display: flex;
+}
+
+.navbar {
+    height: 99vh;
+    width: 20%;
+    float: left;
+}
+
+.header{
+    height: 15%;
+    width: 100%;
+}
+
+.container {
+    width: 70%;
+    height: 99.5vh;
+}
+
+.content{
+    height: 70%;
+}
+
+.footer{
+    height: 15%;
+}

@@ -1,0 +1,34 @@
+body{
+    display: flex;
+}
+
+.navbar {
+    height: 100%;
+    width: 20%;
+}
+
+.header{
+    height: 15%;
+    width: 100%;
+}
+
+.container {
+    display: flex;
+    width: 100%;
+    height: 70%;
+}
+
+.content{
+    height: 100%;
+    width: 63%;
+}
+
+.footer{
+    height: 15%;
+}
+
+.some-class-name {
+    height: 99vh;
+    width: 80%;
+    margin-left: 10%;
+}

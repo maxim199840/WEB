@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+h1, span, p, b, i, ul, li{
+    border: 0;
+}
+
+ul{
+    margin-left: 5%;
+}
+.navbar{
+    background-color: greenyellow;
+}
+
+.content{
+    background-color: white;
+}
+
+.header, .footer{
+    background-color: cornflowerblue;
+}
+
+.navbar:hover {
+    background-color: coral;
+}
+
+.content:hover {
+    background-color: coral;
+}
+
+.header:hover {
+    background-color: coral;
+}
+
+.footer:hover {
+    background-color: coral;
+}

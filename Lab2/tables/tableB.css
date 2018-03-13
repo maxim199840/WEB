@@ -1,0 +1,29 @@
+.main-table {
+    margin-left: 10%;
+    width: 80%;
+    height: 99.5vh;
+}
+
+.navbar {
+    height: 70%;
+    width: 20%;
+}
+
+.content {
+    width: 70%;
+    height: 55%;
+}
+
+.header {
+    height: 15%;
+    width: 100%;
+}
+
+.footer {
+    height: 15%;
+    width: 100%;
+}
+
+.content-up {
+    background-color: coral;
+}
